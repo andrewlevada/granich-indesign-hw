@@ -1,0 +1,603 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BebasNeue-Bold
+FamilyName:Bebas Neue
+StyleName:Bold
+FullName:Bebas Neue Bold
+MenuName:Bebas Neue
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\BebasNeue-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:67216
+FileModTime:1655551791
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bebas Neue Bold
+NameArray:0,Win,1,Bebas Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cormorant-LightItalic
+FamilyName:Cormorant
+StyleName:Light Italic
+FullName:Cormorant Light Italic
+MenuName:Cormorant Light
+FamilyPrefix:CormorantItalic
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Cormorant-Italic[wght].ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:350096
+FileModTime:1655270284
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Cormorant Light
+NameArray:0,Win,16,Cormorant
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cormorant-Light
+FamilyName:Cormorant
+StyleName:Light
+FullName:Cormorant Light
+MenuName:Cormorant Light
+FamilyPrefix:CormorantRoman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Cormorant[wght].ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:572892
+FileModTime:1655270280
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Cormorant Light
+NameArray:0,Win,16,Cormorant
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FontAwesome6Free-Solid
+FamilyName:Font Awesome 6 Free
+StyleName:Solid
+FullName:Font Awesome 6 Free Solid
+MenuName:Font Awesome 6 Free Solid
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Font Awesome 6 Free-Solid-900.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:975352
+FileModTime:1655381952
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Font Awesome 6 Free Solid
+NameArray:0,Win,1,Font Awesome 6 Free Solid
+NameArray:0,Win,16,Font Awesome 6 Free
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexSerif-Bold
+FamilyName:IBM Plex Serif
+StyleName:Bold
+FullName:IBM Plex Serif Bold
+MenuName:IBM Plex Serif
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\IBMPlexSerif-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:160924
+FileModTime:1655383666
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IBM Plex Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexSerif-Italic
+FamilyName:IBM Plex Serif
+StyleName:Italic
+FullName:IBM Plex Serif Italic
+MenuName:IBM Plex Serif
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\IBMPlexSerif-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:169928
+FileModTime:1655383666
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,IBM Plex Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexSerif-Light
+FamilyName:IBM Plex Serif
+StyleName:Light
+FullName:IBM Plex Serif Light
+MenuName:IBM Plex Serif Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\IBMPlexSerif-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:159920
+FileModTime:1655383666
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IBM Plex Serif Light
+NameArray:0,Win,16,IBM Plex Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexSerif-LightItalic
+FamilyName:IBM Plex Serif
+StyleName:Light Italic
+FullName:IBM Plex Serif Light Italic
+MenuName:IBM Plex Serif Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\IBMPlexSerif-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:168288
+FileModTime:1655383666
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,IBM Plex Serif Light
+NameArray:0,Win,16,IBM Plex Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexSerif-Medium
+FamilyName:IBM Plex Serif
+StyleName:Medium
+FullName:IBM Plex Serif Medium
+MenuName:IBM Plex Serif Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\IBMPlexSerif-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:161212
+FileModTime:1655383666
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IBM Plex Serif Medium
+NameArray:0,Win,16,IBM Plex Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IBMPlexSerif-Regular
+FamilyName:IBM Plex Serif
+StyleName:Regular
+FullName:IBM Plex Serif Regular
+MenuName:IBM Plex Serif
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\IBMPlexSerif-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:160304
+FileModTime:1655383666
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,IBM Plex Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Inter-Black
+FamilyName:Inter
+StyleName:Black
+FullName:Inter Black
+MenuName:Inter Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Inter-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:259712
+FileModTime:1654933191
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter Black
+NameArray:0,Win,16,Inter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Inter-BlackItalic
+FamilyName:Inter
+StyleName:Black Italic
+FullName:Inter Black Italic
+MenuName:Inter Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Inter-BlackItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:267084
+FileModTime:1654933191
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter Black
+NameArray:0,Win,16,Inter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Inter-Bold
+FamilyName:Inter
+StyleName:Bold
+FullName:Inter Bold
+MenuName:Inter
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Inter-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:265580
+FileModTime:1654933191
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Inter-ExtraBold
+FamilyName:Inter
+StyleName:Extra Bold
+FullName:Inter Extra Bold
+MenuName:Inter Extra Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Inter-ExtraBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:266104
+FileModTime:1654933191
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter Extra Bold
+NameArray:0,Win,16,Inter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Inter-ExtraLight
+FamilyName:Inter
+StyleName:Extra Light
+FullName:Inter Extra Light
+MenuName:Inter Extra Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Inter-ExtraLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:259968
+FileModTime:1654933191
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter Extra Light
+NameArray:0,Win,16,Inter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Inter-Italic
+FamilyName:Inter
+StyleName:Italic
+FullName:Inter Italic
+MenuName:Inter
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Inter-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:265960
+FileModTime:1654933191
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Inter-Light
+FamilyName:Inter
+StyleName:Light
+FullName:Inter Light
+MenuName:Inter Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Inter-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:259636
+FileModTime:1654933191
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter Light
+NameArray:0,Win,16,Inter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Inter-Medium
+FamilyName:Inter
+StyleName:Medium
+FullName:Inter Medium
+MenuName:Inter Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Inter-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:264176
+FileModTime:1654933191
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter Medium
+NameArray:0,Win,16,Inter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Inter-Regular
+FamilyName:Inter
+StyleName:Regular
+FullName:Inter
+MenuName:Inter
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Inter-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:254772
+FileModTime:1654933191
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Inter-SemiBold
+FamilyName:Inter
+StyleName:Semi Bold
+FullName:Inter Semi Bold
+MenuName:Inter Semi Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Inter-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:265000
+FileModTime:1654933191
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter Semi Bold
+NameArray:0,Win,16,Inter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Jost-Regular
+FamilyName:Jost
+StyleName:Regular
+FullName:Jost Regular
+MenuName:Jost
+FamilyPrefix:JostRoman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Jost-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:134476
+FileModTime:1655112080
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Jost
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LibreBaskerville-Bold
+FamilyName:Libre Baskerville
+StyleName:Bold
+FullName:Libre Baskerville Bold
+MenuName:Libre Baskerville
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\LibreBaskerville-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:155428
+FileModTime:1655294778
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Libre Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1651061248
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Thin
+FamilyName:Montserrat
+StyleName:Thin
+FullName:Montserrat Thin
+MenuName:Montserrat Thin
+FamilyPrefix:MontserratRoman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Montserrat-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:394260
+FileModTime:1655552104
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat Thin
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Thin
+FamilyName:Raleway
+StyleName:Thin
+FullName:Raleway Thin
+MenuName:Raleway Thin
+FamilyPrefix:RalewayRoman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Design\Packaged\DZ-Granich-InDesign\Document fonts\Raleway-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:309720
+FileModTime:1655447109
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Raleway Thin
+NameArray:0,Win,16,Raleway
+%EndFont
+
